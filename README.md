@@ -17,4 +17,4 @@ In short, the course will include the following
 - Class methods
 - Instance variables
 - Instance methods
-- Data validation
+- Data validation.
